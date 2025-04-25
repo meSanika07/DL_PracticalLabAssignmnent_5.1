@@ -49,14 +49,10 @@ yfinance
 8. **Predictions and Visualization**
    - Plotting Predicted vs Actual values
    - ![Predicted vs Actual Prices](![image](https://github.com/user-attachments/assets/b2176707-4cec-47c1-b3e2-618bc7b5f6d1)
-)
 
 9. **Model Evaluation**
    - RMSE (Root Mean Squared Error)
    - MAE (Mean Absolute Error)
-
----
-
 
 ---
 
